@@ -20,3 +20,10 @@
 .carousel slide{
     height: 900px;
 }
+.card-group{
+    width: 100%;
+}
+
+iframe{
+    margin-top: 20px;
+}
